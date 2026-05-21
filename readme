@@ -1,0 +1,98 @@
+# Credit Card Financial Dashboard [Practice Project]
+
+## Overview
+This practice project is an interactive Credit Card Financial Dashboard created to analyze customer transactions, revenue trends, spending behavior, and customer demographics.
+
+The dashboard provides insights into:
+- Revenue performance
+- Transaction analysis
+- Customer segmentation
+- Spending categories
+- Card usage behavior
+- Customer income and education analysis
+
+---
+
+# Dashboard Screens
+
+## 1. Credit Card Transaction Report
+The Transaction Report dashboard focuses on:
+- Total Revenue
+- Interest Earned
+- Transaction Amount
+- Transaction Count
+- Revenue by Card Category
+- Revenue by Expenditure Type
+- Revenue by Customer Job & Education
+- Revenue by Payment Type
+
+### Key Insights
+- Total Revenue: 55M
+- Total Interest Earned: 8M
+- Total Transactions: 656K
+- Blue card category generated the highest revenue
+- Swipe transactions were the most used payment method
+
+---
+
+## 2. Credit Card Customer Report
+The Customer Report dashboard provides customer demographic analysis including:
+- Revenue by Age Group
+- Revenue by Gender
+- Revenue by Marital Status
+- Revenue by Education
+- Revenue by Income Group
+- Revenue by State
+- Revenue by Dependent Count
+
+### Key Insights
+- Businessman customers generated the highest revenue
+- High income customers contributed the most revenue
+- Graduate customers generated the highest customer revenue
+- Texas and New York were among the top revenue-generating states
+
+---
+
+# Tools & Technologies Used
+- Power BI
+- Excel / CSV Dataset
+- PostgreSQL
+- Data Visualization Techniques
+- DAX Measures
+- Data Cleaning & Transformation
+
+---
+
+# Features
+- Interactive filters and slicers
+- Quarterly performance analysis
+- Dynamic visualizations
+- Customer segmentation
+- Revenue tracking
+- Transaction behavior analysis
+
+---
+
+# Project Objective
+The objective of this project is to help businesses analyze customer spending patterns and financial performance using interactive dashboards and visual analytics.
+
+---
+
+# How to Use
+1. Download the Power BI file (.pbix)
+2. Open using Power BI Desktop
+3. Interact with filters and slicers
+4. Explore customer and transaction insights
+
+---
+
+# Screenshots
+
+## Transaction Report Dashboard
+Screenshots/cc_transaction_dashboard
+
+## Customer Report Dashboard
+Screenshots/cc_customer_dashboard
+
+---
+
